@@ -8,3 +8,5 @@
 
 ## Screenshots
 ![image](https://github.com/kwyszynska/WeatherApi/blob/master/ss1.jpg)
+![image](https://github.com/kwyszynska/WeatherApi/blob/master/ss2.jpg)
+![image](https://github.com/kwyszynska/WeatherApi/blob/master/ss3.jpg)
