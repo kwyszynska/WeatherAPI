@@ -4,7 +4,7 @@
 >Język: Java <br>
 
 ## Opis
->Aplikacja korzysta z Weather API - OpenWeatherMap, pobiera lokalizacje użytkownika i pokazuje aktualną pogode
+>Aplikacja korzysta z Weather API - OpenWeatherMap, pobiera lokalizacje użytkownika lub wyszukuje podane przez użytkownika miasto i pokazuje aktualną pogode
 
 ## Screenshots
 ![image](https://github.com/kwyszynska/WeatherApi/blob/master/ss1.jpg)
